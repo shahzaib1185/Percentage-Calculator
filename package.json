@@ -1,0 +1,13 @@
+{
+  "name": "shakha_percentage-calculator",
+  "version": "1.0.0",
+  "description": "Percentage calculator",
+  "main": "main.js",
+  "type": "module",
+"bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "1601185",
+  "license": "MIT"
+}
